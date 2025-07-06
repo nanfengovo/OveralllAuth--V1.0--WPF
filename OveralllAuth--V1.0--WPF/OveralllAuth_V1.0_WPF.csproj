@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+	  <RootNamespace>OveralllAuth_V1</RootNamespace>
+	  <AssemblyName>OveralllAuth_V1</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Assets\Images\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Prism.DryIoc" Version="8.1.97" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EntityFrameworkCore\Model\" />
+    <Folder Include="Domain\IService\" />
+    <Folder Include="Domain\Service\" />
+    <Folder Include="DTO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\Images\logo.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+</Project>
