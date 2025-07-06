@@ -2,12 +2,18 @@
 using System.ComponentModel;
 using System.Windows.Threading;
 using System;
+using Prism.Commands;
+using Prism.Regions;
+using System.Windows.Input;
+using 导航Demo.Views;
 
-namespace OveralllAuth__V1._0__WPF.ViewModels
+namespace OveralllAuth_V1.ViewModels
 {
     public class MainWindowViewModel : BindableBase
     {
         private string _title = "Prism Application";
+
+        private readonly IRegionManager _regionManager;
         public string Title
         {
             get { return _title; }
@@ -52,9 +58,9 @@ namespace OveralllAuth__V1._0__WPF.ViewModels
             }
         }
 
-        public MainWindowViewModel()
+        public MainWindowViewModel(IRegionManager regionManager)
         {
-            // 初始化时更新一次日期和时间
+            //初始化时更新一次日期和时间
             CurrentDate = DateTime.Now.ToString("MM月dd日  dddd", new System.Globalization.CultureInfo("zh-CN"));
             CurrentTime = DateTime.Now.ToString("HH:mm");
 
@@ -62,18 +68,21 @@ namespace OveralllAuth__V1._0__WPF.ViewModels
             UpdateIconData();
 
             // 设置定时器每秒更新一次时间
-            var timer = new DispatcherTimer();
-            timer.Interval = TimeSpan.FromSeconds(1);
-            timer.Tick += (sender, args) =>
-            {
-                // 更新时间
-                CurrentTime = DateTime.Now.ToString("HH:mm");
-                CurrentDate = DateTime.Now.ToString("MM月dd日  dddd", new System.Globalization.CultureInfo("zh-CN"));
+            //var timer = new DispatcherTimer();
+            //timer.Interval = TimeSpan.FromSeconds(1);
+            //timer.Tick += (sender, args) =>
+            //{
+            //    // 更新时间
+            //    CurrentTime = DateTime.Now.ToString("HH:mm");
+            //    CurrentDate = DateTime.Now.ToString("MM月dd日  dddd", new System.Globalization.CultureInfo("zh-CN"));
 
-                // 更新图标
-                UpdateIconData();
-            };
-            timer.Start();
+            //    // 更新图标
+            //    UpdateIconData();
+            //};
+            //timer.Start();
+            _regionManager = regionManager;
+            GoView1Cmm = new DelegateCommand(GoView1);
+            HomeCmm = new DelegateCommand(GoHome);
         }
 
         // 根据时间更新图标数据
@@ -83,7 +92,7 @@ namespace OveralllAuth__V1._0__WPF.ViewModels
             var hour = DateTime.Now.Hour;
 
             // 白天时间段：6:00 - 18:00，晚上为 moon 图标
-            IconData = (hour >= 6 && hour < 18) ? "sun" : "moon";
+            IconData = hour >= 6 && hour < 18 ? "sun" : "moon";
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
@@ -92,5 +101,29 @@ namespace OveralllAuth__V1._0__WPF.ViewModels
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
+
+
+
+        #region 导航切换
+        public ICommand GoView1Cmm { get; set; }
+
+        public void GoView1()
+        {
+            _regionManager.Regions["MainViewRegion"].RequestNavigate("View1");
+        }
+
+        //public DelegateCommand HomeCmm { get; set; }
+
+        // 修改后
+        public ICommand HomeCmm { get; private set; }  // 实现ICommand接口
+
+        public void GoHome()
+        {
+            _regionManager.Regions["MainViewRegion"].RequestNavigate("HomeUC");
+        }
+
+
+
+        #endregion
     }
 }

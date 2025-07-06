@@ -16,7 +16,7 @@
 
 
             <!-- 注册转换器 -->
-            <converter:GeometryResourceConverter x:Key="GeometryResourceConverter" />
+            <!--<converter:GeometryResourceConverter x:Key="GeometryResourceConverter" />-->
         </ResourceDictionary>
 
     </Application.Resources>

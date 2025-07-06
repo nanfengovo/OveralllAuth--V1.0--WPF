@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\viewmodels\\menuucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\viewmodels\\menuucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\views\\view1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\views\\view1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\views\\homeuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\views\\homeuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\views\\homeuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\views\\homeuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\viewmodels\\view2viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\viewmodels\\view2viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\viewmodels\\view1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\viewmodels\\view1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\viewmodels\\userucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\viewmodels\\userucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\viewmodels\\roleucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\viewmodels\\roleucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\viewmodels\\homeucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\viewmodels\\homeucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\converters\\geometryresourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\converters\\geometryresourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\views\\view2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\views\\view2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\\u5BFC\u822Ademo\\\u5BFC\u822Ademo\\views\\view2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC000D26-4D3F-42D0-8358-018754C035C7}|\u5BFC\u822ADemo\\\u5BFC\u822ADemo.csproj|solutionrelative:\u5BFC\u822Ademo\\views\\view2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f677620d-05fd-48ed-8423-72a12db4deef}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeUC.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\HomeUC.xaml.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\Views\\HomeUC.xaml.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\HomeUC.xaml.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\Views\\HomeUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:16:10.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeUC.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\HomeUC.xaml",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\Views\\HomeUC.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\HomeUC.xaml",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\Views\\HomeUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T16:16:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\UserUCViewModel.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\ViewModels\\UserUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\UserUCViewModel.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\ViewModels\\UserUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:15:32.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\RoleUCViewModel.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\ViewModels\\RoleUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\RoleUCViewModel.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\ViewModels\\RoleUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:15:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\MenuUCViewModel.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\ViewModels\\MenuUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\MenuUCViewModel.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\ViewModels\\MenuUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:15:14.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\ViewModels\\HomeUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\ViewModels\\HomeUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:14:57.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\MainWindowViewModel.cs*",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\ViewModels\\MainWindowViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:34:29.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\App.xaml.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\App.xaml.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:29:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View1.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\View1.xaml",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\Views\\View1.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\View1.xaml",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\Views\\View1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T15:32:02.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:38:58.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View2ViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\View2ViewModel.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\ViewModels\\View2ViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\View2ViewModel.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\ViewModels\\View2ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:33:02.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "View1ViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\View1ViewModel.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\ViewModels\\View1ViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\ViewModels\\View1ViewModel.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\ViewModels\\View1ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:32:46.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\App.xaml",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\App.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\App.xaml",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T16:07:05.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "View2.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\View2.xaml",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\Views\\View2.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\View2.xaml",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\Views\\View2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T15:32:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\Views\\MainWindow.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T15:30:15.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GeometryResourceConverter.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Converters\\GeometryResourceConverter.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\Converters\\GeometryResourceConverter.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Converters\\GeometryResourceConverter.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\Converters\\GeometryResourceConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:10:39.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "View2.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\View2.xaml.cs",
+              "RelativeDocumentMoniker": "\u5BFC\u822ADemo\\Views\\View2.xaml.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\\u5BFC\u822ADemo\\\u5BFC\u822ADemo\\Views\\View2.xaml.cs",
+              "RelativeToolTip": "\u5BFC\u822ADemo\\Views\\View2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:34:02.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

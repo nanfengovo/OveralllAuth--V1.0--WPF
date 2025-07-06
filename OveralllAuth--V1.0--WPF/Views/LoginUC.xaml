@@ -6,7 +6,7 @@
     xmlns:local="clr-namespace:OveralllAuth_V1.Views"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:prism="http://prismlibrary.com/"
-    xmlns:viewmodels="clr-namespace:OveralllAuth__V1._0__WPF.ViewModels"
+    xmlns:viewmodels="clr-namespace:OveralllAuth_V1.ViewModels"
     Width="800"
     Height="450"
     prism:ViewModelLocator.AutoWireViewModel="True"

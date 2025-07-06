@@ -64,8 +64,10 @@
                     </StackPanel>
 
                     <StackPanel Grid.Row="1">
+                        <Button Command="{Binding GoView1Cmm}">页面一</Button>
                         <RadioButton
                             Margin="0,30,0,0"
+                            Command="{Binding HomeCmm}"
                             Content="仪表盘"
                             Style="{DynamicResource MenuRadioButtonStyle}"
                             Tag="{DynamicResource home}" />
@@ -130,7 +132,7 @@
                                 Grid.Column="2"
                                 HorizontalAlignment="Center"
                                 VerticalAlignment="Center"
-                                Data="{Binding IconData, Converter={StaticResource GeometryResourceConverter}}"
+
                                 Fill="{DynamicResource TertiaryWhiteColor}"
                                 Stretch="Uniform" />
                         </Grid>
@@ -247,14 +249,15 @@
                         Content="{DynamicResource minimize}"
                         Style="{DynamicResource IconButtonsStyle}" />
                 </StackPanel>
-                <Border
-                    Grid.Row="1"
-                    Background="Transparent"
-                    CornerRadius="0 0 5 0">
-                    <Frame
-                        x:Name="frameContent"
-                        Margin="30,0,30,20"
-                        NavigationUIVisibility="Hidden" />
+                <Border Grid.Row="1" CornerRadius="0 0 5 0">
+                    <!--  区域  -->
+                    <ContentControl Margin="30,0,30,20" prism:RegionManager.RegionName="MainViewRegion" />
+
+                    <!--<Frame
+                    x:Name="frameContent"
+                    Margin="30,0,30,20"
+                    prism:RegionManager.RegionName="MainViewRegion"
+                    NavigationUIVisibility="Hidden" />-->
                 </Border>
             </Grid>
 

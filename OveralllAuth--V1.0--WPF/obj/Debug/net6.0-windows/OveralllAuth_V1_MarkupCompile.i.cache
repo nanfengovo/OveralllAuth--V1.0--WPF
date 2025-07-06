@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 E:\Code\项目--学习\OverallAuth\OveralllAuth--V1.0--WPF\OveralllAuth--V1.0--WPF\App.xaml
-10870781826
+11-460347502
 
-171909366164
+19-1362902245
 199-1743793207
-Assets\Icons\Icons.xaml;Styles\ButtonStyles.xaml;Styles\DarkTheme.xaml;Styles\LightTheme.xaml;Views\HomeUC.xaml;Views\LoginUC.xaml;Views\MainWindow.xaml;Views\MenuUC.xaml;Views\RoleUC.xaml;Views\UserUC.xaml;
+Assets\Icons\Icons.xaml;Styles\ButtonStyles.xaml;Styles\DarkTheme.xaml;Styles\LightTheme.xaml;Views\HomeUC.xaml;Views\LoginUC.xaml;Views\MainWindow.xaml;Views\MenuUC.xaml;Views\RoleUC.xaml;Views\UserUC.xaml;Views\View1.xaml;
 
-False
+True
 

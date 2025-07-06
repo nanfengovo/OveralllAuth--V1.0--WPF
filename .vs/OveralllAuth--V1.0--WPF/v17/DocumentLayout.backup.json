@@ -11,20 +11,84 @@
       "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\converters\\geometryresourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\converters\\geometryresourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\viewmodels\\homeucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\viewmodels\\homeucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\homeuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\homeuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\homeuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\homeuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\useruc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\useruc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\view1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\view1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\roleuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\roleuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\menuuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\menuuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\viewmodels\\menuucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\viewmodels\\menuucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\viewmodels\\roleucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\viewmodels\\roleucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\viewmodels\\userucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\viewmodels\\userucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\assets\\icons\\icons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -35,24 +99,8 @@
       "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\domain\\domainmodel\\menuitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\views\\loginuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|solutionrelative:overalllauth--v1.0--wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF75C2D0-636F-4BDB-97F2-2853D31A1F10}|OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\overallauth\\overalllauth--v1.0--wpf\\overalllauth--v1.0--wpf\\overalllauth_v1.0_wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -73,7 +121,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 38,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,63 +145,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuItemModel.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Domain\\DomainModel\\MenuItemModel.cs",
-              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Domain\\DomainModel\\MenuItemModel.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Domain\\DomainModel\\MenuItemModel.cs",
-              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Domain\\DomainModel\\MenuItemModel.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIBAwCcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T11:41:28.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Icons.xaml",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Assets\\Icons\\Icons.xaml",
-              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Assets\\Icons\\Icons.xaml",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Assets\\Icons\\Icons.xaml",
-              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Assets\\Icons\\Icons.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-06T11:26:08.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "OveralllAuth--V1.0--WPF\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T00:19:15.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-06T00:17:39.228Z",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\App.xaml.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\App.xaml.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\App.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:06:52.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Microsoft.WinFX.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ViewState": "AgIAALwAAAAAAAAAAAASwNIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-07-06T00:13:29.285Z",
+              "DocumentIndex": 8,
+              "Title": "HomeUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\ViewModels\\HomeUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\ViewModels\\HomeUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:52:05.229Z",
               "EditorCaption": ""
             },
             {
@@ -164,14 +190,14 @@
               "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml.cs",
               "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAArwCgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T00:09:19.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\App.xaml",
               "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\App.xaml",
@@ -183,20 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.g.i.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs",
-              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs",
-              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAowJoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T11:20:50.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "GeometryResourceConverter.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Converters\\GeometryResourceConverter.cs",
               "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Converters\\GeometryResourceConverter.cs",
@@ -209,45 +222,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ButtonStyles.xaml",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Styles\\ButtonStyles.xaml",
-              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Styles\\ButtonStyles.xaml",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Styles\\ButtonStyles.xaml",
-              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Styles\\ButtonStyles.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-06T11:05:24.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\App.xaml.cs",
-              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\App.xaml.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\App.xaml.cs",
-              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\App.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAiwC4AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LoginUC.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T00:06:52.239Z",
+              "WhenOpened": "2025-07-06T00:46:26.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginUCViewModel.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\LoginUCViewModel.cs",
-              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\ViewModels\\LoginUCViewModel.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\LoginUCViewModel.cs",
-              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\ViewModels\\LoginUCViewModel.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAWwFkAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T00:45:49.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "LoginUC.xaml",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml",
               "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml",
@@ -259,20 +247,231 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginUC.xaml.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml.cs",
-              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml.cs",
-              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\LoginUC.xaml.cs",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml*",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T00:17:39.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUC.g.i.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.i.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.i.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.i.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:20:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginUC.g.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\LoginUC.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:18:32.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeUC.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\HomeUC.xaml.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\HomeUC.xaml.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\HomeUC.xaml.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\HomeUC.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T00:46:26.749Z",
+              "WhenOpened": "2025-07-06T16:05:52.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeUC.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\HomeUC.xaml",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\HomeUC.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\HomeUC.xaml",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\HomeUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T12:51:42.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\LoginUCViewModel.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\ViewModels\\LoginUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\LoginUCViewModel.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\ViewModels\\LoginUCViewModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwv1QAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:45:49.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserUC.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\UserUC.xaml",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\UserUC.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\UserUC.xaml",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\UserUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T12:52:57.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "View1.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\View1.xaml",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\View1.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\View1.xaml",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\View1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T15:49:08.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleUC.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\RoleUC.xaml",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\RoleUC.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\RoleUC.xaml",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\RoleUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T12:54:43.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuUC.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\MenuUC.xaml",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Views\\MenuUC.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Views\\MenuUC.xaml",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Views\\MenuUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T12:55:05.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\RoleUCViewModel.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\ViewModels\\RoleUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\RoleUCViewModel.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\ViewModels\\RoleUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:55:22.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\MenuUCViewModel.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\ViewModels\\MenuUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\MenuUCViewModel.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\ViewModels\\MenuUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:55:39.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\UserUCViewModel.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\ViewModels\\UserUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\ViewModels\\UserUCViewModel.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\ViewModels\\UserUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:54:23.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Icons.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Assets\\Icons\\Icons.xaml",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Assets\\Icons\\Icons.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Assets\\Icons\\Icons.xaml",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Assets\\Icons\\Icons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T11:26:08.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAALwAAAAAAAAAAAASwNIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-06T00:13:29.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MenuItemModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Domain\\DomainModel\\MenuItemModel.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Domain\\DomainModel\\MenuItemModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Domain\\DomainModel\\MenuItemModel.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Domain\\DomainModel\\MenuItemModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIBAwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:41:28.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\obj\\Debug\\net6.0-windows\\Views\\MainWindow.g.i.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAowJgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:20:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ButtonStyles.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Styles\\ButtonStyles.xaml",
+              "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\Styles\\ButtonStyles.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\Styles\\ButtonStyles.xaml",
+              "RelativeToolTip": "OveralllAuth--V1.0--WPF\\Styles\\ButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-06T11:05:24.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "OveralllAuth_V1.0_WPF",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj",
               "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj",
@@ -283,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "OveralllAuth_V1.0_WPF.csproj",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\OverallAuth\\OveralllAuth--V1.0--WPF\\OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj",
               "RelativeDocumentMoniker": "OveralllAuth--V1.0--WPF\\OveralllAuth_V1.0_WPF.csproj",
